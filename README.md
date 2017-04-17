@@ -1,4 +1,6 @@
 # Let's practice modules
+## Setup
+* yarn install
 
 ## Do
 * Implement code for subtract module
