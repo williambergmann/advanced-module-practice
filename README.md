@@ -1,7 +1,7 @@
 # Let's practice modules
 ## Setup
-* yarn install
-* yarn start
+* npm install
+* npm start
 * What shows up in the terminal?
 * If you are on a windows machine, remove the single quotes from package.json in "start": "nodemon --exec 'eslint src && babel-node src/index'",
 
