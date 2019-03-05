@@ -34,9 +34,9 @@ how to find these errors now.
 * The divide module is next.. let's tackle it!
 
 * Let's finish the rest of the modules
-- Implement code for addOne in the addNumbers module
-- Import and use addOne in index.js
-- Implement the rest of the code for subtractNumbers module
+  * Implement code for addOne in the addNumbers module
+  * Import and use addOne in index.js
+  * Implement the rest of the code for subtractNumbers module
 
 * Run yarn start
 
